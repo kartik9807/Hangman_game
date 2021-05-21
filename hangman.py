@@ -55,7 +55,7 @@ def play(word):
 
 
 def display_hangman(tries):
-    stages = [ 
+    stages = [ # body of hangman from step 1 to 6
                 """
                    --------
                    |      |
